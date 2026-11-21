@@ -1,14 +1,10 @@
 ---
 publish: true
 created: 2026-11-21T16:33:19.912Z
-modified: 2026-11-21T18:23:17.620Z
+modified: 2026-11-21T18:39:38.222Z
 ---
 
 > [!abstract] Overview Neurons are specialized nerve cells that receive, process, and transmit information throughout the brain and body. They allow us to think, feel, move, learn, and respond to our environment.
-
-> **Overview**
->
-> Neurons are specialized nerve cells that receive, process, and transmit information throughout the brain and body. They allow us to think, feel, move, learn, and respond to our environment.
 
 ## 1. What is a neuron?
 
