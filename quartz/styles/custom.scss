@@ -1,3 +1,27 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+/* Keep the left sidebar permanently visible */
+.sidebar.left {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Keep the website title visible */
+.sidebar.left .page-title {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Keep the notes explorer visible */
+.sidebar.left .explorer {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Keep sidebar contents visible */
+.sidebar.left > * {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
